@@ -21,7 +21,7 @@ version_bucket: rscale-training-bucket
 version_bucket_region_name: us-west-2
 
 # set to '<first_initial><lastname>-company-version'.  ex: sgreenberg-company-version
-version_key: jcabuhat-version
+version_key: jcabuhat-roster-version
 initial_version: 0.0.1
 
 # set to '<first_initial><lastname>-company-(.*).jar'.  ex: sgreenberg-company-(.*).jar
