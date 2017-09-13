@@ -7,6 +7,7 @@ applications:
     memory: 1G
     name: roster
     path: build/libs/roster.jar
+    timeout: 180
     services: 
       - rosterdb
       - cfgserverrepo
