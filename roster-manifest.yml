@@ -9,3 +9,4 @@ applications:
     path: build/libs/roster.jar
     services: 
       - rosterdb
+      - cfgserverrepo
